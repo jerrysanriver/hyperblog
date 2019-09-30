@@ -1,5 +1,39 @@
-body{
-    color: green;
-    text-align: center;
-    font-family: "Arial";
+body
+{
+    color: #333; /* Le puse color gris oscuro al texto */
+    text-align: center; /* centré por defecto el texto */
+    font-family: "Arial"; /* Le puse "16px" al tamaño */
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+
+}
+#container 
+/* Es esta caja en el archivo "blogspot.html":
+        <div id="container">
+            <div id="post"></div>
+                <h1>Este es el atractivo e interesante del post</h1>
+                <p>Y este es el párrafo de inicio donde vamos a explicar las cosas increíbles que se pueden hacer con ramas</p>
+            </div>
+        </div>
+*/
+{
+    width: 70%; /* Le puse un ancho del "70%", por eso tiene bordes */
+    padding: 1em; /* Le puse padding y por eso el texto se ve centrado */
+    text-align: left; /* Le puse que mi texto esta alineado a la izquierda */
+    border: 1px solid #DDD; /* Le puse un borde que es el rectangulo de alrededor */
+    margin: 0 auto; /* Le puse margin "0" y los lados automático para que se "centrara" */
+}
+
+#conyainer h1
+/* Es esta caja en el archivo "blogspot.html": "Este es el atractivo e interesante del post" (El título).
+LE BAJE EL TAMAÑO PORQUE SE VEÍA MUY GRANDE
+        <div id="container">
+            <div id="post"></div>
+                "<h1>Este es el atractivo e interesante del post</h1>" (Es esta línea de código).
+            </div>
+        </div>
+*/
+{
+    font-size: 20px;
 }
