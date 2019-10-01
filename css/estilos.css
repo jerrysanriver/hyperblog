@@ -2,14 +2,12 @@ body
 {
     color: #333; /* Le puse color gris oscuro al texto */
     text-align: center; /* centré por defecto el texto */
-    font-family: "Courier"; /* Le puse "16px" al tamaño */
+    font-family: "Arial"; /* Le puse "16px" al tamaño */
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
 
-<<<<<<< HEAD
-=======
 #cabecera
 {
     background: #33A;
@@ -27,7 +25,7 @@ body
     font-size: 0.8em;
 } 
 
->>>>>>> cabecera
+
 #container 
 /* Es esta caja en el archivo "blogspot.html":
         <div id="container">
