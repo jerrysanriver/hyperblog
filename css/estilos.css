@@ -2,12 +2,12 @@ body
 {
     color: #333; /* Le puse color gris oscuro al texto */
     text-align: center; /* centré por defecto el texto */
-    font-family: "Arial"; /* Le puse "16px" al tamaño */
+    font-family: "Courier"; /* Le puse "16px" al tamaño */
     font-size: 16px;
     margin: 0;
     padding: 0;
-
 }
+
 #container 
 /* Es esta caja en el archivo "blogspot.html":
         <div id="container">
@@ -25,7 +25,7 @@ body
     margin: 0 auto; /* Le puse margin "0" y los lados automático para que se "centrara" */
 }
 
-#conyainer h1
+#container h1
 /* Es esta caja en el archivo "blogspot.html": "Este es el atractivo e interesante del post" (El título).
 LE BAJE EL TAMAÑO PORQUE SE VEÍA MUY GRANDE
         <div id="container">
