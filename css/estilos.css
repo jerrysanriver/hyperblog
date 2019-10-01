@@ -1,6 +1,6 @@
-body
+﻿body
 {
-    color: blue; /* Le puse color gris oscuro al texto */
+    color: #333;
     text-align: center; /* centré por defecto el texto */
     font-family: "Arial"; /* Le puse "16px" al tamaño */
     font-size: 16px;
